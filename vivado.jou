@@ -1,0 +1,16 @@
+#-----------------------------------------------------------
+# Vivado v2018.3 (64-bit)
+# SW Build 2405991 on Thu Dec  6 23:38:27 MST 2018
+# IP Build 2404404 on Fri Dec  7 01:43:56 MST 2018
+# Start of session at: Wed Dec  4 22:51:01 2019
+# Process ID: 16984
+# Current directory: C:/Users/Damiano/Documents/mouse-vga3.3/driver mouse-vga
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent2296 C:\Users\Damiano\Documents\mouse-vga3.3\driver mouse-vga\driver mouse-vga.xpr
+# Log file: C:/Users/Damiano/Documents/mouse-vga3.3/driver mouse-vga/vivado.log
+# Journal file: C:/Users/Damiano/Documents/mouse-vga3.3/driver mouse-vga\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project {C:/Users/Damiano/Documents/mouse-vga3.3/driver mouse-vga/driver mouse-vga.xpr}
+update_compile_order -fileset sources_1
+open_run impl_1
+report_power -name {power_1}
